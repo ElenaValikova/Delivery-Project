@@ -1,0 +1,41 @@
+
+.footer {
+    padding: 60px 0;
+}
+
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__logo {
+    margin-right: 35px;
+}
+
+.footer__link {
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #595959;
+}
+
+.footer__link:not(:last-child) {
+    margin-right: 15px;
+}
+
+.footer__social {
+    display: flex;
+    align-items: center;
+}
+
+.footer__social-link:not(:last-child) {
+    margin-right: 21px;
+}
