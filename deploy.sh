@@ -22,7 +22,7 @@ git commit -m 'deploy'
 # если вы публикуете по адресу https://<USERNAME>.github.io/<REPO>
 # напрмер git push -f https://github.com/a1exalexander/cahee.git master:gh-pages
 
-git push -f https://github.com/ElenaValikova/Bhromaon.git master:gh-pages
+git push -f https://github.com/ElenaValikova/Delivery-Project.git master:gh-pages
 
 cd -
 

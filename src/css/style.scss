@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+// Core
+
+@import "./core/common";
+
+// Common components
+@import "./components/common/button";
+
+// Components
+@import "./components/header";
+@import "./components/promo";
+@import "./components/restaurants";
