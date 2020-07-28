@@ -1,24 +1,27 @@
-
 .promo {
     padding: 68px 70px;
     box-shadow: 0px 7px 12px rgba(158, 158, 163, 0.1);
-    background: #FFF1B8 url(/images/promo-pizza.png)  top -80px right -245px / 958px;
+    background: #FFF1B8 url(../images/promo/pizza.png)  top -80px right -245px / 958px;
     background-repeat: no-repeat;
     border-radius: 10px;
     margin-bottom: 56px;
 
-    &__title {
-    font-weight: bold;
-    font-size: 39px;
-    color: #302C34;
-    margin-bottom: 15px;
-}
 
+    &__title {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 39px;
+        line-height: 46px;
+        color: #302c34;
+    }
+    
     &__text {
-    max-width: 538px;
-    font-weight: normal;
-    font-size: 24px;
-    line-height: 28px;
-    color: #302C34;
-}
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28px;
+        color: #302c34;
+        max-width: 538px;
+    }
+    
 }
